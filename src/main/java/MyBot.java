@@ -56,7 +56,7 @@ public class MyBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "5651697737:AAG-4xJawGFLDsnYnOBWfZ_wMKQ5mAoFI14";
+        return "";
     }
 
     private void saveFileToFolder(String fileId, String fileName) throws Exception {
